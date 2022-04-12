@@ -13,7 +13,7 @@ Please note that this test run script does not check your script docstring or yo
 ```bash
 cd ~/ops445/a2/
 pwd #confirm that you are in the right directory
-python3 ./checkA2.py
+python3 ./checkA2.py -f -v
 ```
 
 2. Paste the testing script output into *a2_output.txt*:

@@ -4,7 +4,7 @@ This will download Assignment 2 locally, allowing you to work on your scripts an
 
 1. Clone your assignment repository into your ~/ops445/a2 directory using SSH:
 ```bash
-git clone git@github.com:OPS445-W22/assignment2-yourgithubusername.git ~/ops445/a2/
+git clone git@github.com:OPS445/assignment2-yourgithubusername.git ~/ops445/a2/
 ```
 
 # Submission

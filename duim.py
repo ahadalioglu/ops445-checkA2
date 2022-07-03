@@ -7,7 +7,7 @@ import argparse
 
 
 '''
-OPS445 Assignment 2 - Winter 2022
+OPS445 Assignment 2 - Summer 2022
 Program: duim.py 
 Author: "Student Name"
 The python code in this file (duim.py) is original work written by
